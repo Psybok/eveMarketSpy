@@ -1,0 +1,1086 @@
+2,null,"Blueprints",0
+4,null,"Ships",0
+5,1361,"Standard Frigates",0
+6,1367,"Standard Cruisers",0
+7,1376,"Standard Battleships",0
+8,1382,"Standard Industrial Ships",0
+9,null,"Ship Equipment",0
+10,9,"Turrets & Bays",0
+11,null,"Ammunition & Charges",0
+14,9,"Hull & Armor ",0
+18,1031,"Minerals",1
+19,null,"Trade Goods",0
+20,19,"Industrial Goods",1
+22,19,"Radioactive Goods",1
+23,19,"Passengers",1
+24,null,"Implants & Boosters",0
+27,24,"Implants",0
+52,9,"Propulsion ",0
+54,1031,"Ore",0
+61,5,"Caldari",1
+64,5,"Minmatar",1
+65,1035,"Construction Components",0
+72,5,"Amarr",1
+73,6,"Minmatar",1
+74,6,"Amarr",1
+75,6,"Caldari",1
+76,6,"Gallente",1
+77,5,"Gallente",1
+78,7,"Minmatar",1
+79,7,"Amarr",1
+80,7,"Caldari",1
+81,7,"Gallente",1
+82,8,"Minmatar",1
+83,8,"Gallente",1
+84,8,"Caldari",1
+85,8,"Amarr",1
+86,10,"Hybrid Turrets",0
+87,10,"Projectile Turrets",0
+88,10,"Laser Turrets",0
+99,11,"Projectile Ammo",0
+100,11,"Hybrid Charges",0
+101,11,"Frequency Crystals",0
+102,851,"Small",1
+103,851,"Medium",1
+105,851,"Large",1
+106,848,"Large",1
+107,848,"Small",1
+108,848,"Medium",1
+109,845,"Large",1
+112,845,"Medium",1
+113,845,"Small",1
+114,11,"Missiles",0
+115,114,"Auto-Targeting",0
+116,114,"Defender",1
+117,114,"Light Missiles",0
+118,114,"Rockets",0
+120,11,"Probes",0
+126,554,"Shield Rechargers",1
+128,554,"Shield Transporters",0
+131,52,"Microwarpdrives",1
+132,52,"Propulsion Upgrades",0
+133,14,"Armor Plates",1
+134,14,"Armor Repair Systems",0
+135,14,"Hull Upgrades",0
+138,10,"Mining Lasers",0
+139,11,"Cap Booster Charges",1
+140,10,"Missile Launchers",0
+141,9,"Smartbombs",0
+143,10,"Weapon Upgrades",0
+150,null,"Skills",0
+157,null,"Drones",0
+158,157,"Mining Drones",1
+159,157,"Combat Drones",0
+204,2,"Ships",0
+205,204,"Frigates",0
+206,204,"Cruisers",0
+207,204,"Battleships",0
+208,204,"Industrial Ships",0
+209,2,"Ship Equipment",0
+210,209,"Turrets & Bays",0
+211,209,"Ammunition & Charges",0
+212,209,"Shield & Energy ",0
+213,209,"Sensors & Electronics",0
+214,209,"Hull & Armor ",0
+252,209,"Propulsion ",0
+261,205,"Caldari",1
+264,205,"Minmatar",1
+265,800,"Ship Components",1
+272,205,"Amarr",1
+273,206,"Minmatar",1
+274,206,"Amarr",1
+275,206,"Caldari",1
+276,206,"Gallente",1
+277,205,"Gallente",1
+278,207,"Minmatar",1
+279,207,"Amarr",1
+280,207,"Caldari",1
+281,207,"Gallente",1
+282,208,"Minmatar",1
+283,208,"Gallente",1
+284,208,"Caldari",1
+285,208,"Amarr",1
+286,210,"Hybrid Turrets",0
+287,210,"Projectile Turrets",0
+288,210,"Laser Turrets",0
+289,286,"Large",1
+290,286,"Medium",1
+291,286,"Small",1
+292,288,"Small",1
+293,288,"Medium",1
+295,288,"Large",1
+296,287,"Small",1
+297,287,"Medium",1
+298,287,"Large",1
+299,211,"Projectile Ammo",0
+300,211,"Hybrid Charges",0
+301,211,"Frequency Crystals",0
+302,301,"Small",1
+303,301,"Medium",1
+305,301,"Large",1
+306,300,"Large",1
+307,300,"Small",1
+308,300,"Medium",1
+309,299,"Large",1
+312,299,"Medium",1
+313,299,"Small",1
+314,211,"Missiles",0
+315,314,"Auto-Targeting",1
+316,314,"Defender",1
+317,314,"Targeted",1
+318,314,"Rockets",1
+320,211,"Scan Probes",1
+322,213,"Sensor Upgrades",1
+323,213,"Jammers & Scramblers",1
+324,213,"Sensor Subsystems",1
+325,213,"Scanners",1
+326,212,"Shield Upgrades",1
+327,212,"Energy Upgrades",1
+328,212,"Shield Subsystems",1
+329,212,"Energy Subsystems",1
+331,252,"Propulsion Subsystems",1
+332,252,"Propulsion Upgrades",1
+333,214,"Armor Upgrades",1
+334,214,"Repair Systems",1
+335,214,"Hull Upgrades",1
+338,210,"Mining Lasers",1
+339,211,"Booster Charges",1
+340,210,"Missile Launchers",1
+341,209,"Smartbombs",1
+343,210,"Weapon Upgrades",1
+357,209,"Drones",0
+358,357,"Mining Drones",1
+359,357,"Combat Drones",1
+363,210,"Drone Bays",1
+364,150,"Gunnery",1
+365,150,"Corporation Management",1
+366,150,"Drones",1
+367,150,"Electronics",1
+368,150,"Engineering",1
+369,150,"Industry",1
+370,150,"Leadership",1
+372,150,"Mechanic",1
+373,150,"Missile Launcher Operation",1
+374,150,"Navigation",1
+375,150,"Science",1
+376,150,"Social",1
+377,150,"Spaceship Command",1
+378,150,"Trade",1
+379,404,"Cargo Containers",1
+380,141,"Micro",1
+381,141,"Large",1
+382,141,"Small",1
+383,141,"Medium",1
+387,114,"Torpedoes",0
+390,314,"Torpedoes",1
+391,4,"Shuttles",0
+393,391,"Amarr",1
+394,391,"Minmatar",1
+395,391,"Gallente",1
+396,391,"Caldari",1
+398,1036,"Tools",1
+399,1364,"Interceptors",0
+400,399,"Amarr",1
+401,399,"Caldari",1
+402,399,"Gallente",1
+403,399,"Minmatar",1
+404,9,"Deployable Equipment",0
+405,404,"Warp Disruption Fields ",1
+406,209,"Deployable Equipment",0
+407,406,"Warp Disruption Fields",1
+408,204,"Interceptors",0
+410,408,"Amarr",1
+411,408,"Caldari",1
+412,408,"Gallente",1
+413,408,"Minmatar",1
+414,204,"Shuttles",0
+415,414,"Amarr",1
+416,414,"Caldari",1
+417,414,"Gallente",1
+418,414,"Minmatar",1
+419,204,"Covert Ops",0
+420,1364,"Covert Ops",0
+421,420,"Amarr",1
+422,420,"Caldari",1
+423,420,"Gallente",1
+424,420,"Minmatar",1
+425,419,"Amarr",1
+427,419,"Caldari",1
+428,419,"Gallente",1
+429,419,"Minmatar",1
+430,213,"Cloaking Devices",1
+432,1364,"Assault Ships",0
+433,432,"Amarr",1
+434,432,"Caldari",1
+435,432,"Gallente",1
+436,432,"Minmatar",1
+437,1368,"Logistics",0
+438,437,"Amarr",1
+439,437,"Caldari",1
+440,437,"Gallente",1
+441,437,"Minmatar",1
+442,204,"Logistics",0
+443,442,"Amarr",1
+444,442,"Caldari",1
+445,442,"Gallente",1
+446,442,"Minmatar",1
+448,1368,"Heavy Assault Ships",0
+449,448,"Amarr",1
+450,448,"Caldari",1
+451,448,"Gallente",1
+452,448,"Minmatar",1
+453,204,"Heavy Assault Ships",0
+454,453,"Amarr",1
+455,453,"Caldari",1
+456,453,"Gallente",1
+457,453,"Minmatar",1
+458,204,"Assault Ships",0
+459,458,"Amarr",1
+461,458,"Caldari",1
+462,458,"Gallente",1
+463,458,"Minmatar",1
+464,1372,"Standard Destroyers",0
+465,464,"Amarr",1
+466,464,"Caldari",1
+467,464,"Gallente",1
+468,464,"Minmatar",1
+469,1374,"Standard Battlecruisers",0
+470,469,"Amarr",1
+471,469,"Caldari",1
+472,469,"Gallente",1
+473,469,"Minmatar",1
+475,null,"Manufacture & Research",0
+476,1033,"Ice Products",1
+477,null,"Starbase & Sovereignty Structures",0
+478,1285,"Control Towers",1
+479,1285,"Missile Batteries",1
+480,1285,"Turret Batteries",0
+481,1285,"Electronic Warfare Batteries",1
+482,1285,"Refining Arrays",1
+483,1285,"Silos",1
+484,1285,"Ship Maintenance Arrays",1
+485,1285,"Shield Hardening Arrays",1
+488,1285,"Moon Harvesting Arrays",1
+490,1285,"Reactors",1
+491,19,"Narcotics",1
+492,19,"Consumer Products",1
+493,1033,"Ice Ore",1
+494,1384,"Mining Barges",0
+495,494,"ORE",1
+496,204,"Mining Barges",0
+497,496,"ORE",1
+499,1034,"Advanced Materials",1
+500,1034,"Processed Materials",1
+501,1034,"Raw Materials",1
+502,845,"Extra Large",1
+503,851,"Extra Large",1
+504,848,"Extra Large",1
+505,114,"Citadel Torpedoes",0
+506,1285,"Corporate Hangar Array",1
+507,475,"Reactions",0
+508,507,"Simple Reactions",1
+509,507,"Complex Reactions",1
+512,54,"Arkonor",1
+514,54,"Bistot",1
+515,54,"Pyroxeres",1
+516,54,"Plagioclase",1
+517,54,"Spodumain",1
+518,54,"Veldspar",1
+519,54,"Scordite",1
+521,54,"Crokite",1
+522,54,"Dark Ochre",1
+523,54,"Kernite",1
+525,54,"Gneiss",1
+526,54,"Omber",1
+527,54,"Hedbergite",1
+528,54,"Hemorphite",1
+529,54,"Jaspet",1
+530,54,"Mercoxit",1
+531,27,"Skill Hardwiring",0
+532,27,"Attribute Enhancers",0
+533,475,"Materials",0
+535,14,"Armor Hardeners",1
+537,14,"Remote Armor Repair Systems",0
+538,14,"Hull Repair Systems",0
+540,14,"Resistance Plating",1
+541,14,"Energized Plating",1
+542,52,"Afterburners",1
+550,554,"Shield Resistance Amplifiers",1
+551,554,"Shield Extenders",0
+552,554,"Shield Boosters",0
+553,554,"Shield Hardeners",1
+554,9,"Shield",0
+555,86,"Railguns",0
+556,86,"Blasters",0
+557,88,"Beam Lasers",0
+558,88,"Pulse Lasers",0
+559,87,"Autocannons",0
+560,87,"Artillery Cannons",0
+561,556,"Small",1
+562,556,"Medium",1
+563,556,"Large",1
+564,555,"Small",1
+565,555,"Medium",1
+566,555,"Large",1
+567,557,"Small",1
+568,557,"Medium",1
+569,557,"Large",1
+570,558,"Small",1
+572,558,"Medium",1
+573,558,"Large",1
+574,559,"Small",1
+575,559,"Medium",1
+576,559,"Large",1
+577,560,"Small",1
+578,560,"Medium",1
+579,560,"Large",1
+580,114,"Cruise Missiles",0
+581,114,"Heavy Missiles",0
+582,204,"Destroyers",0
+583,582,"Amarr",1
+584,582,"Caldari",1
+585,582,"Gallente",1
+586,582,"Minmatar",1
+588,204,"Battlecruisers",0
+589,588,"Amarr",1
+590,588,"Caldari",1
+591,588,"Gallente",1
+592,588,"Minmatar",1
+593,11,"Mining Crystals",1
+594,480,"Projectile",1
+595,480,"Hybrid",1
+596,480,"Laser",1
+597,299,"Extra Large",1
+598,300,"Extra Large",1
+599,301,"Extra Large",1
+600,128,"Capital",1
+601,128,"Large",1
+602,128,"Medium",1
+603,128,"Small",1
+604,128,"Micro",1
+605,551,"Small",1
+606,551,"Medium",1
+607,551,"Micro",1
+608,551,"Large",1
+609,552,"Small",1
+610,552,"Medium",1
+611,552,"Large",1
+612,552,"Extra Large",1
+613,552,"Boost Amplifiers",1
+614,19,"Criminal Evidence",0
+615,14,"Damage Controls",1
+616,19,"Insignias",0
+617,314,"Citadel Torpedoes",1
+618,532,"Implant Slot 01",1
+619,532,"Implant Slot 02",1
+620,532,"Implant Slot 03",1
+621,532,"Implant Slot 04",1
+622,532,"Implant Slot 05",1
+629,1385,"Transport Ships",0
+630,629,"Amarr",1
+631,629,"Caldari",1
+632,629,"Gallente",1
+633,629,"Minmatar",1
+634,204,"Transport Ships",0
+635,634,"Amarr",1
+636,634,"Caldari",1
+637,634,"Gallente",1
+638,634,"Minmatar",1
+639,140,"Rocket Launchers",1
+640,140,"Light Missile Launchers",1
+641,140,"Rapid Light Missile Launchers",1
+642,140,"Heavy Launchers",1
+643,140,"Cruise Launchers",1
+644,140,"Torpedo Launchers",1
+645,143,"Ballistic Control Systems",1
+646,143,"Gyrostabilizers",1
+647,143,"Heat Sinks",1
+648,143,"Magnetic Field Stabilizers",1
+655,9,"Engineering Equipment",0
+656,9,"Electronics and Sensor Upgrades",0
+657,9,"Electronic Warfare",0
+658,655,"Power Diagnostic Systems",1
+659,655,"Reactor Control Units",1
+660,655,"Auxiliary Power Controls",1
+661,655,"Energy Destabilizers",0
+662,655,"Energy Vampires",0
+663,655,"Energy Transfer Arrays",0
+664,655,"Capacitor Batteries",0
+665,655,"Capacitor Rechargers",1
+666,655,"Capacitor Flux Coils",1
+667,655,"Capacitor Power Relays",1
+668,655,"Capacitor Boosters",0
+669,656,"Signal Amplifiers",1
+670,656,"Automated Targeting Systems",1
+671,656,"Sensor Boosters",1
+672,656,"Passive Targeting Systems",1
+673,656,"Remote Sensor Boosters",1
+674,656,"Scanners",0
+675,656,"Cloaking Devices",1
+676,656,"CPU Upgrades",1
+677,657,"Electronic Counter Measures",0
+678,657,"ECM Bursts",1
+679,657,"Remote Sensor Dampers",1
+680,657,"Tracking Disruptors",1
+681,657,"Sensor Backup Arrays",0
+682,657,"Warp Jammers",1
+683,657,"Stasis Webifiers",1
+685,657,"ECCM",0
+686,657,"Projected ECCM",1
+687,554,"Shield Flux Coils",1
+688,554,"Shield Power Relays",1
+689,661,"Small",1
+690,661,"Medium",1
+691,661,"Heavy",1
+692,662,"Small",1
+693,662,"Medium",1
+694,662,"Heavy",1
+695,663,"Small",1
+696,663,"Medium",1
+697,663,"Large",1
+698,668,"Micro",1
+699,668,"Small",1
+700,668,"Medium",1
+701,668,"Heavy",1
+702,664,"Micro",1
+703,664,"Small",1
+704,664,"Medium",1
+705,664,"Large",1
+706,143,"Tracking Computers",1
+707,143,"Tracking Enhancers",1
+708,143,"Tracking Links",1
+711,674,"Cargo Scanners",1
+712,10,"Scan Probe Launchers",1
+713,674,"Ship Scanners",1
+714,674,"Data and Composition Scanners",1
+715,677,"Magnetometric Jammers",1
+716,677,"Ladar Jammers",1
+717,677,"Gravimetric Jammers",1
+718,677,"Radar Jammers",1
+719,677,"Multi Spectrum Jammers",1
+720,681,"Gravimetric Backup Arrays",1
+721,681,"Ladar Backup Arrays",1
+722,681,"Radar Backup Arrays",1
+723,681,"Magnetometric Backup Arrays",1
+724,681,"Multi-Frequency Backup Arrays",1
+725,685,"Gravimetric Sensors",1
+726,685,"Ladar Sensors",1
+727,685,"Magnetometric Sensors",1
+728,685,"Multi-Spectrum Sensors",1
+729,685,"Radar Sensors",1
+730,616,"Amarr Navy",1
+731,616,"Ammatar Navy",1
+732,616,"Caldari Navy",1
+733,616,"CONCORD",1
+734,616,"Gallente Navy",1
+735,616,"Khanid Navy",1
+736,616,"Minmatar Fleet",1
+737,616,"Individuals",1
+738,19,"Nexus Chips",1
+739,19,"Criminal Dog Tags",0
+740,739,"Angels",1
+741,739,"Blood Raiders",1
+742,739,"Dark Blood",1
+743,739,"Domination",1
+744,739,"Dread Guristas",1
+745,739,"Guristas",1
+746,739,"Sansha",1
+747,739,"Serpentis",1
+748,739,"Shadow Serpentis",1
+749,739,"True Sansha",1
+750,739,"Commanders",1
+751,614,"Overseer's Personal Effects",1
+752,614,"Criminal DNA Patterns",1
+753,211,"Mining Crystals",1
+754,19,"Political Paraphernalia",1
+757,657,"Target Painters",1
+759,533,"Alloys & Compounds",1
+760,9,"Civilian Modules",1
+761,1381,"Dreadnoughts",0
+762,761,"Amarr",1
+763,761,"Caldari",1
+764,761,"Gallente",1
+765,761,"Minmatar",1
+766,1381,"Freighters",0
+767,766,"Amarr",1
+768,766,"Caldari",1
+769,766,"Gallente",1
+770,766,"Minmatar",1
+771,556,"Extra Large",1
+772,555,"Extra Large",1
+773,557,"Extra Large",1
+774,558,"Extra Large",1
+775,560,"Extra Large",1
+776,559,"Extra Large",1
+777,140,"Citadel Launchers",1
+778,552,"Capital",1
+779,9,"Fleet Assistance Modules",1
+780,1035,"Station Components",1
+781,1035,"Capital Ship Components",1
+782,204,"Dreadnoughts",0
+783,782,"Amarr",1
+784,782,"Caldari",1
+785,782,"Gallente",1
+786,782,"Minmatar",1
+787,204,"Freighters",0
+788,787,"Amarr",1
+789,787,"Caldari",1
+790,787,"Gallente",1
+791,787,"Minmatar",1
+792,286,"Extra Large",1
+793,287,"Extra Large",1
+794,288,"Extra Large",1
+796,800,"Capital Ship Components",1
+798,800,"Construction Platforms",1
+799,209,"Fleet Assistance Modules",1
+800,2,"Components",0
+801,143,"Siege Modules",1
+802,65,"Amarr",1
+803,65,"Caldari",1
+804,65,"Gallente",1
+805,65,"Minmatar",1
+806,1036,"Prototypes and Datafiles",0
+807,1036,"Artifacts and Lore",0
+808,806,"Angel",1
+809,806,"Guristas",1
+810,807,"Sleeper",1
+811,807,"Talocan",1
+812,1381,"Titans",0
+813,812,"Amarr",1
+814,812,"Caldari",1
+815,812,"Gallente",1
+816,812,"Minmatar",1
+817,1381,"Carriers",0
+818,817,"Amarr",1
+819,817,"Caldari",1
+820,817,"Gallente",1
+821,817,"Minmatar",1
+822,1375,"Command Ships",0
+823,1373,"Interdictors",0
+824,1368,"Recon Ships",0
+825,822,"Amarr",1
+826,823,"Amarr",1
+827,824,"Amarr",1
+828,822,"Caldari",1
+829,823,"Caldari",1
+830,824,"Caldari",1
+831,822,"Gallente",1
+832,823,"Gallente",1
+833,824,"Gallente",1
+834,822,"Minmatar",1
+835,823,"Minmatar",1
+836,824,"Minmatar",1
+837,159,"Light Scout Drones",1
+838,159,"Medium Scout Drones",1
+839,159,"Heavy Attack Drones",1
+840,159,"Fighters",1
+841,157,"Electronic Warfare Drones",1
+842,157,"Logistic Drones",1
+843,157,"Combat Utility Drones",1
+845,99,"Standard Ammo",0
+846,99,"Advanced Artillery Ammo",0
+847,99,"Advanced Autocannon Ammo",0
+848,100,"Standard Charges",0
+849,100,"Advanced Blaster Charges",0
+850,100,"Advanced Railgun Charges",0
+851,101,"Standard Crystals",0
+852,101,"Advanced Beam Laser Crystals",0
+853,101,"Advanced Pulse Laser Crystals",0
+854,846,"Large",1
+855,846,"Medium",1
+856,846,"Small",1
+857,847,"Large",1
+858,847,"Medium",1
+859,847,"Small",1
+860,849,"Large",1
+861,849,"Medium",1
+862,849,"Small",1
+863,850,"Large",1
+864,850,"Medium",1
+865,850,"Small",1
+866,852,"Large",1
+867,852,"Medium",1
+868,852,"Small",1
+869,853,"Large",1
+870,853,"Medium",1
+871,853,"Small",1
+872,656,"Tractor Beams",1
+874,1384,"Exhumers",0
+875,874,"ORE",1
+878,204,"Titans",0
+879,204,"Carriers",0
+880,204,"Interdictors",0
+881,204,"Command Ships",0
+882,204,"Recon Ships",0
+883,204,"Exhumers",0
+884,878,"Amarr",1
+885,878,"Caldari",1
+886,878,"Gallente",1
+887,878,"Minmatar",1
+888,879,"Amarr",1
+889,879,"Caldari",1
+890,879,"Gallente",1
+891,879,"Minmatar",1
+892,880,"Amarr",1
+893,880,"Caldari",1
+894,880,"Gallente",1
+895,880,"Minmatar",1
+896,881,"Amarr",1
+897,881,"Caldari",1
+898,881,"Gallente",1
+899,881,"Minmatar",1
+900,882,"Amarr",1
+901,882,"Caldari",1
+902,882,"Gallente",1
+903,882,"Minmatar",1
+904,883,"ORE",1
+905,213,"Tractor Beams",1
+906,806,"Bloodraider",1
+907,806,"Serpentis",1
+908,807,"Yan Jung",1
+909,807,"Takmahl",1
+910,663,"Capital",1
+911,159,"Sentry Drones",1
+912,10,"Doomsday Devices",1
+913,210,"Doomsday Devices",1
+914,115,"Standard Auto-Targeting",1
+915,115,"Advanced High Damage Auto-Targeting",1
+916,115,"Advanced High Precision Auto-Targeting",1
+917,117,"Advanced High Precision Light Missiles",1
+918,580,"Advanced High Precision Cruise Missiles",1
+919,581,"Advanced High Precision Heavy Missiles",1
+920,117,"Standard Light Missiles",1
+921,580,"Standard Cruise Missiles",1
+922,118,"Standard Rockets",1
+923,387,"Standard Torpedoes",1
+924,581,"Standard Heavy Missiles",1
+925,580,"Advanced High Damage Cruise Missiles",1
+926,581,"Advanced High Damage Heavy Missiles",1
+927,117,"Advanced High Damage Light Missiles",1
+928,118,"Advanced Long Range Rockets",1
+929,387,"Advanced Long Range Torpedoes",1
+930,118,"Advanced Anti-Ship Rockets",1
+931,387,"Advanced Anti-Ship Torpedoes",1
+932,1285,"Assembly Arrays",1
+933,1285,"Mobile Laboratory",1
+935,10,"Mining Upgrades",1
+937,210,"Mining Upgrades",1
+938,157,"Drone Upgrades",1
+939,210,"Drone Upgrades",1
+940,19,"Starbase Charters",1
+941,2,"Tool",1
+942,533,"Salvaged Materials",1
+943,2,"Ship Modifications",0
+944,943,"Armor Rigs",0
+945,943,"Astronautic Rigs",0
+946,943,"Drone Rigs",0
+947,943,"Electronics Rigs",0
+948,943,"Electronics Superiority Rigs",0
+949,943,"Energy Grid Rigs",0
+950,943,"Energy Weapon Rigs",0
+951,943,"Hybrid Weapon Rigs",0
+952,943,"Missile Launcher Rigs",0
+953,943,"Projectile Weapon Rigs",0
+954,943,"Shield Rigs",0
+955,null,"Ship Modifications",0
+956,1111,"Armor Rigs",0
+957,1111,"Astronautic Rigs",0
+958,1111,"Drone Rigs",0
+959,1111,"Electronics Rigs",0
+960,1111,"Electronics Superiority Rigs",0
+961,1111,"Energy Grid Rigs",0
+962,1111,"Energy Weapon Rigs",0
+963,1111,"Hybrid Weapon Rigs",0
+964,1111,"Missile Launcher Rigs",0
+965,1111,"Shield Rigs",0
+966,1036,"Datacores",1
+967,677,"Signal Distortion Amplifier",1
+968,114,"Heavy Assault Missiles",0
+971,968,"Standard Heavy Assault Missiles",1
+972,968,"Advanced Long Range Heavy Assault Missiles",1
+973,968,"Advanced Anti-Ship Heavy Assault Missile",1
+974,140,"Heavy Assault Launchers",1
+975,314,"Heavy Assault Missiles",1
+977,24,"Booster",1
+979,1111,"Projectile Weapon Rigs",0
+980,1036,"Data Interfaces",1
+981,507,"Simple Biochemical Reactions",1
+982,507,"Complex Biochemical Reactions",1
+983,1032,"Gas Clouds",1
+984,1032,"Booster Material",1
+986,99,"Faction Ammo",0
+987,986,"Large",1
+988,986,"Medium",1
+989,986,"Small",1
+990,100,"Faction Charges",0
+991,990,"Large",1
+992,990,"Medium",1
+993,990,"Small",1
+994,101,"Faction Crystals",0
+995,994,"Large",1
+996,994,"Medium",1
+997,994,"Small",1
+998,117,"Faction Light Missiles",1
+999,118,"Faction Rockets",1
+1000,387,"Faction Torpedoes",1
+1001,580,"Faction Cruise Missiles",1
+1002,581,"Faction Heavy Missiles",1
+1003,968,"Faction Heavy Assault Missiles",1
+1004,990,"Extra Large",1
+1006,986,"Extra Large",1
+1007,994,"Extra Large",1
+1008,406,"Cargo Containers",1
+1009,1285,"Energy Neutralizing Array",1
+1010,1285,"System Scanning Array",1
+1011,1285,"Jump Bridge ",1
+1012,1285,"Cynosural System Jammer",1
+1013,1285,"Cynosural Generator Array",1
+1014,10,"Bomb Launchers",1
+1015,11,"Bombs",1
+1016,211,"Bombs",1
+1018,14,"Remote Hull Repair Systems",0
+1019,210,"Bomb Launchers",1
+1021,1035,"Outpost Improvement Platforms",0
+1022,1021,"Amarr Improvement Platforms",1
+1023,1021,"Caldari Improvement Platforms",1
+1024,1021,"Gallente Improvement Platforms",1
+1025,1021,"Minmatar Improvement Platforms",1
+1027,1021,"Outpost Upgrade Platforms",1
+1028,357,"Fighter Drones",1
+1029,357,"Electronic Warfare Drones",1
+1030,357,"Logistic Drones",1
+1031,533,"Ore & Minerals ",0
+1032,533,"Gas Clouds & Boosters",0
+1033,533,"Ice & Ice Products",0
+1034,533,"Moon Materials",0
+1035,475,"Components",0
+1036,1035,"Research & Invention",0
+1037,138,"Gas Cloud Harvesters",1
+1038,138,"Ice Harvesters",1
+1039,138,"Mining Lasers",1
+1040,138,"Strip Miners",1
+1041,2,"Manufacture & Research",0
+1042,1041,"Ore Compression Blueprints",1
+1043,1041,"Ice Compression Blueprints",1
+1045,204,"Capital Industrial Ships",0
+1046,1045,"ORE",1
+1047,1381,"Capital Industrial Ships",0
+1048,1047,"ORE",1
+1049,134,"Small ",1
+1050,134,"Medium",1
+1051,134,"Large",1
+1052,134,"Capital",1
+1053,538,"Small",1
+1054,538,"Medium",1
+1055,538,"Large",1
+1056,537,"Capital",1
+1057,537,"Large",1
+1058,537,"Medium",1
+1059,537,"Small",1
+1060,1018,"Small",1
+1061,1018,"Medium",1
+1062,1018,"Large",1
+1063,1018,"Capital",1
+1065,1364,"Electronic Attack Frigates",0
+1066,1065,"Amarr",1
+1067,1065,"Caldari",1
+1068,1065,"Gallente",1
+1069,1065,"Minmatar",1
+1070,1368,"Heavy Interdictors",0
+1071,1070,"Amarr",1
+1072,1070,"Caldari",1
+1073,1070,"Gallente",1
+1074,1070,"Minmatar",1
+1075,1377,"Black Ops",0
+1076,1075,"Amarr",1
+1077,1075,"Caldari",1
+1078,1075,"Gallente",1
+1079,1075,"Minmatar",1
+1080,1377,"Marauders",0
+1081,1080,"Amarr",1
+1082,1080,"Caldari",1
+1083,1080,"Gallente",1
+1084,1080,"Minmatar",1
+1085,657,"Warp Disruption Field Generators",1
+1086,132,"Inertia Stabilizers",1
+1087,132,"Overdrives",1
+1088,132,"Warp Core Stabilizers",1
+1089,1381,"Jump Freighters",0
+1090,1089,"Amarr",1
+1091,1089,"Caldari",1
+1092,1089,"Gallente",1
+1093,1089,"Minmatar",1
+1094,11,"Scripts",1
+1096,533,"Rogue Drone Components",1
+1097,800,"Advanced Capital Ship Components",1
+1098,1035,"Advanced Capital Ship Components",0
+1099,1098,"Amarr",1
+1100,1098,"Caldari",1
+1101,1098,"Gallente",1
+1102,1098,"Minmatar",1
+1103,11,"Nanite Repair Paste",1
+1105,211,"Scripts",1
+1108,19,"Pilot's License Extensions (PLEX)",1
+1109,19,"Sleeper Components",1
+1110,150,"Subsystems",1
+1111,955,"Rigs",0
+1112,955,"Subsystems",0
+1113,1112,"Electronic Subsystems",0
+1114,1112,"Engineering Subsystems",0
+1115,1112,"Defensive Subsystems",0
+1116,1112,"Offensive Subsystems",0
+1117,1112,"Propulsion Subsystems",0
+1118,1113,"Amarr",1
+1119,1113,"Caldari",1
+1120,1113,"Gallente",1
+1121,1113,"Minmatar",1
+1122,1114,"Amarr",1
+1123,1114,"Caldari",1
+1124,1114,"Gallente",1
+1125,1114,"Minmatar",1
+1126,1115,"Amarr",1
+1127,1115,"Caldari",1
+1128,1115,"Minmatar",1
+1129,1115,"Gallente",1
+1130,1116,"Amarr",1
+1131,1116,"Caldari",1
+1132,1116,"Gallente",1
+1133,1116,"Minmatar",1
+1134,1117,"Amarr",1
+1135,1117,"Caldari",1
+1136,1117,"Gallente",1
+1137,1117,"Minmatar",1
+1138,1368,"Strategic Cruisers",0
+1139,1138,"Amarr",1
+1140,1138,"Caldari",1
+1141,1138,"Gallente",1
+1142,1138,"Minmatar",1
+1143,507,"Polymer Reactions",1
+1144,533,"Fullerenes & Polymers",0
+1145,1144,"Fullerenes",1
+1146,1144,"Polymers",1
+1147,1035,"Subsystem Components",1
+1148,533,"Ancient Salvaged Materials",1
+1149,1036,"Ancient Relics",1
+1150,806,"Hybrid Decryptors",1
+1191,800,"Hybrid Components",1
+1192,115,"Faction Auto-Targeting",1
+1193,505,"Standard Citadel Torpedoes",1
+1194,505,"Faction Citadel Torpedoes",1
+1195,135,"Reinforced Bulkheads",1
+1196,135,"Nanofiber Internal Structures",1
+1197,135,"Expanded Cargoholds",1
+1198,210,"Scan Probe Launchers",1
+1199,120,"Scan Probes",1
+1200,120,"Survey Probes",1
+1201,120,"Interdiction Probes",1
+1202,944,"Large Armor Rigs",1
+1203,944,"Small Armor Rigs",1
+1204,944,"Medium Armor Rigs",1
+1206,956,"Small Armor Rigs",1
+1207,956,"Medium Armor Rigs",1
+1208,956,"Large Armor Rigs",1
+1210,957,"Small Astronautic Rigs",1
+1211,957,"Medium Astronautic Rigs",1
+1212,957,"Large Astronautic Rigs",1
+1213,958,"Small Drone Rigs",1
+1214,958,"Medium Drone Rigs",1
+1215,958,"Large Drone Rigs",1
+1216,959,"Small Electronics Rigs",1
+1217,959,"Medium Electronics Rigs",1
+1218,959,"Large Electronics Rigs",1
+1219,960,"Small Electronics Superiority Rigs",1
+1220,960,"Medium Electronics Superiority Rigs",1
+1221,960,"Large Electronics Superiority Rigs",1
+1222,961,"Small Energy Grid Rigs",1
+1223,961,"Medium Energy Grid Rigs",1
+1224,961,"Large Energy Grid Rigs",1
+1225,962,"Small Energy Weapon Rigs",1
+1226,962,"Medium Energy Weapon Rigs",1
+1227,962,"Large Energy Weapon Rigs",1
+1228,963,"Small Hybrid Weapon Rigs",1
+1229,963,"Medium Hybrid Weapon Rigs",1
+1230,963,"Large Hybrid Weapon Rigs",1
+1231,964,"Small Missile Launcher Rigs",1
+1232,964,"Medium Missile Launcher Rigs",1
+1233,964,"Large Missile Launcher Rigs",1
+1234,965,"Small Shield Rigs",1
+1235,965,"Medium Shield Rigs",1
+1236,965,"Large Shield Rigs",1
+1237,979,"Small Projectile Weapon Rigs",1
+1238,979,"Medium Projectile Weapon Rigs",1
+1239,979,"Large Projectile Weapon Rigs",1
+1240,945,"Small Astronautic Rigs",1
+1241,945,"Medium Astronautic Rigs",1
+1242,945,"Large Astronautic Rigs",1
+1243,946,"Small Drone Rigs",1
+1244,946,"Medium Drone Rigs",1
+1245,946,"Large Drone Rigs",1
+1246,947,"Small Electronics Rigs",1
+1247,947,"Medium Electronics Rigs",1
+1248,947,"Large Electronics Rigs",1
+1249,948,"Small Electronics Superiority Rigs",1
+1250,948,"Medium Electronics Superiority Rigs",1
+1251,948,"Large Electronics Superiority Rigs",1
+1252,949,"Small Energy Grid Rigs",1
+1253,949,"Medium Energy Grid Rigs",1
+1254,949,"Large Energy Grid Rigs",1
+1255,950,"Small Energy Weapon Rigs",1
+1256,950,"Medium Energy Weapon Rigs",1
+1257,950,"Large Energy Weapon Rigs",1
+1258,951,"Small Hybrid Weapon Rigs",1
+1259,951,"Medium Hybrid Weapon Rigs",1
+1260,951,"Large Hybrid Weapon Rigs",1
+1261,952,"Small Missile Launcher Rigs",1
+1262,952,"Medium Missile Launcher Rigs",1
+1263,952,"Large Missile Launcher Rigs",1
+1264,953,"Small Projectile Weapon Rigs",1
+1265,953,"Medium Projectile Weapon Rigs",1
+1266,953,"Large Projectile Weapon Rigs",1
+1267,954,"Small Shield Rigs",1
+1268,954,"Medium Shield Rigs",1
+1269,954,"Large Shield Rigs",1
+1272,477,"Sovereignty Structures",0
+1273,1272,"Territorial Claim Units",1
+1274,1272,"Sovereignty Blockade Units",1
+1275,1272,"Infrastructure Hubs",1
+1276,1272,"Infrastructure Upgrades",0
+1282,1276,"Strategic Upgrades",1
+1283,1276,"Industrial Upgrades",1
+1284,1276,"Military Upgrades",1
+1285,477,"Starbase Structures",0
+1286,314,"Citadel Cruise Missiles",1
+1287,1316,"Standard Citadel Cruise Missiles",1
+1310,159,"Fighter Bombers",1
+1313,357,"Fighter Bombers",1
+1316,114,"Citadel Cruise Missiles",0
+1317,1316,"Faction Citadel Cruise Missiles",1
+1320,null,"Planetary Infrastructure",0
+1322,1320,"Command Centers",1
+1323,150,"Planet Management",1
+1332,533,"Planetary Materials",0
+1333,1332,"Raw Materials",1
+1334,1332,"Processed Materials",1
+1335,1332,"Refined Commodities",1
+1336,1332,"Specialized Commodities",1
+1337,1332,"Advanced Commodities",1
+1338,2,"Starbase & Sovereignty Structures",0
+1339,1338,"Control Towers",1
+1340,1338,"Assembly Arrays",1
+1341,1338,"Corporate Hangar & Ship Maintenance Arrays",1
+1342,1338,"Cynosural Generator Arrays",1
+1343,1338,"Cynosural System Jammers",1
+1344,1338,"Electronic Warfare Batteries",1
+1345,1338,"Energy Neutralization Batteries",1
+1346,1338,"Jump Bridges",1
+1347,1338,"Mobile Hybrid Sentries",1
+1348,1338,"Mobile Laser Sentries",1
+1349,1338,"Mobile Missile Sentries",1
+1350,1338,"Mobile Projectile Sentries",1
+1351,1338,"Mobile Reactors",1
+1352,1338,"Moon Miners",1
+1353,1338,"Refining Arrays",1
+1354,1338,"Shield Hardening Arrays",1
+1355,1338,"Silos",1
+1356,1338,"Sovereignty Structures",1
+1357,800,"Station Components",1
+1358,211,"Nanite Repair Paste",1
+1359,1338,"Mobile Laboratories",1
+1361,4,"Frigates",0
+1362,1361,"Faction Frigates",0
+1364,1361,"Advanced Frigates",0
+1365,1362,"Pirate Faction",1
+1366,1362,"Navy Faction",1
+1367,4,"Cruisers",0
+1368,1367,"Advanced Cruisers",0
+1369,1367,"Faction Cruisers",0
+1370,1369,"Navy Faction",1
+1371,1369,"Pirate Faction",1
+1372,4,"Destroyers",0
+1373,1372,"Advanced Destroyers",0
+1374,4,"Battlecruisers",0
+1375,1374,"Advanced Battlecruisers",0
+1376,4,"Battleships",0
+1377,1376,"Advanced Battleships",0
+1378,1376,"Faction Battleships",0
+1379,1378,"Navy Faction",1
+1380,1378,"Pirate Faction",1
+1381,4,"Capital Ships",0
+1382,4,"Industrial Ships",0
+1384,4,"Mining Barges",0
+1385,1382,"Advanced Industrial Ships",0
+1389,208,"ORE",1
+1390,8,"ORE",1
+1392,817,"Faction Carrier",1
+1395,1362,"Special Frigates",1
+1396,null,"Apparel",0
+1397,1396,"Men's Clothing",0
+1398,1397,"Tops",1
+1399,1397,"Outerwear",1
+1400,1397,"Footwear",1
+1401,1397,"Bottoms",1
+1402,1396,"Women's Clothing",0
+1403,1402,"Bottoms",1
+1404,1402,"Footwear",1
+1405,1402,"Outerwear",1
+1406,1402,"Tops",1
+1407,1396,"Accessories",0
+1408,1407,"Eyewear",1
+1410,1320,"Orbital Infrastructure",1
+1411,2,"Planetary Infrastructure",1
+1412,1041,"Fuel Block Blueprints",1
+1413,533,"Fuel Blocks",1
+1416,14,"Reactive Armor Hardener",1
+1426,657,"Target Breaker",1
+1427,19,"Aurum Tokens",1
+1469,531,"Armor Implants",0
+1470,531,"Electronics Implants",0
+1471,531,"Engineering Implants",0
+1472,531,"Faction Omega Implants",0
+1473,531,"Gunnery Implants",0
+1474,531,"Industry Implants",0
+1475,531,"Leadership Implants",0
+1476,531,"Missile Implants",0
+1477,531,"Navigation Implants",0
+1478,531,"Science Implants",0
+1479,531,"Shield Implants",0
+1480,1479,"Implant Slot 06",1
+1481,1479,"Implant Slot 07",1
+1482,1479,"Implant Slot 08",1
+1483,1479,"Implant Slot 09",1
+1484,1478,"Implant Slot 06",1
+1485,1478,"Implant Slot 07",1
+1486,1478,"Implant Slot 08",1
+1487,1478,"Implant Slot 09",1
+1488,1478,"Implant Slot 10",1
+1489,1477,"Implant Slot 06",1
+1490,1477,"Implant Slot 07",1
+1491,1477,"Implant Slot 08",1
+1492,1477,"Implant Slot 09",1
+1493,1476,"Implant Slot 06",1
+1494,1476,"Implant Slot 07",1
+1495,1476,"Implant Slot 08",1
+1496,1476,"Implant Slot 09",1
+1497,1476,"Implant Slot 10",1
+1498,1473,"Implant Slot 06",1
+1499,1473,"Implant Slot 07",1
+1500,1473,"Implant Slot 08",1
+1501,1473,"Implant Slot 09",1
+1502,1473,"Implant Slot 10",1
+1503,1474,"Implant Slot 10",1
+1504,1474,"Implant Slot 08",1
+1505,1475,"Implant Slot 10",1
+1506,1472,"Implant Slot 06",1
+1507,1471,"Implant Slot 06",1
+1508,1471,"Implant Slot 07",1
+1509,1471,"Implant Slot 08",1
+1510,1470,"Implant Slot 06",1
+1511,1470,"Implant Slot 07",1
+1512,1470,"Implant Slot 08",1
+1513,1470,"Implant Slot 09",1
+1514,1469,"Implant Slot 06",1
+1515,1469,"Implant Slot 07",1
+1516,1469,"Implant Slot 08",1
+1517,1469,"Implant Slot 09",1
+1518,1469,"Implant Slot 10",1
+1519,1474,"Implant Slot 07",1

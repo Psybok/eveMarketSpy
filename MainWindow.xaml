@@ -1,0 +1,19 @@
+﻿<Window x:Class="eveOnlineMarketSpy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Eve Market Spy" Height="594" Width="816" Loaded="onStart_Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="286*" />
+            <RowDefinition Height="269*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="228" />
+            <ColumnDefinition Width="566*" />
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="itemBrowserSubTypes" Grid.Row="1" MouseDoubleClick="itemBrowserSubTypes_MouseDoubleClick" Margin="352,0,0,0" Grid.Column="1" />
+        <TreeView x:Name="itemBrowser" SelectedItemChanged="itemBrowser_SelectedItemChanged" Margin="352,0,0,0" Grid.Column="1" />
+        <TabControl x:Name="itemResults" Grid.RowSpan="2" Margin="0,22,228,0" Grid.ColumnSpan="2"/>
+        <TextBox Height="23" HorizontalAlignment="Left" x:Name="region" VerticalAlignment="Top" Width="200" Text="jita" TextChanged="regionBox_TextChanged" />
+    </Grid>
+</Window>
